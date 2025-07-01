@@ -5,7 +5,7 @@
 ---
 
 ## Objective
-##### Learn to use subqueries within SELECT, FROM, and WHERE clauses to perform advanced filtering, aggregation, and data transformation.
+Learn to use subqueries within SELECT, FROM, and WHERE clauses to perform advanced filtering, aggregation, and data transformation.
 
 ---
 

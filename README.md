@@ -32,21 +32,21 @@ Learn to use subqueries within SELECT, FROM, and WHERE clauses to perform advanc
 ---
 
 ## Key Concepts
--- Subqueries
-    - Queries within queries
-    - Used for filtering, aggregation, and row selection
--- Scalar Subqueries
-    - Returns a single value
-    - Typically used inside SELECT or as a comparison
--- Correlated Subqueries
-      - Inner query depends on outer query
-      - Often used with EXISTS
+## Subqueries
+- Queries within queries
+- Used for filtering, aggregation, and row selection
+## Scalar Subqueries
+- Returns a single value
+- Typically used inside SELECT or as a comparison
+## Correlated Subqueries
+- Inner query depends on outer query
+- Often used with EXISTS
 
--- Derived Tables
-    - Subquery used in the FROM clause
-    - Acts like a temporary table
+## Derived Tables
+- Subquery used in the FROM clause
+- Acts like a temporary table
 
-## Sample SQL Snippets
+## Sample SQL
 ### Scalar Subquery (SELECT clause)
 sql
 `` SELECT 

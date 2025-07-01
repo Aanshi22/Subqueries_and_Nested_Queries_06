@@ -1,7 +1,7 @@
 ## Subqueries and Nested Queries – Task 06 
 ## (E-commerce SQL Project)
 
-This project demonstrates advanced SQL concepts such as **subqueries**, **scalar queries**, **correlated subqueries**, and **derived tables** using an E-commerce database. It is part of a structured learning task to master complex data filtering and logic construction using SQL.
+### This project demonstrates advanced SQL concepts such as **subqueries**, **scalar queries**, **correlated subqueries**, and **derived tables** using an E-commerce database. It is part of a structured learning task to master complex data filtering and logic construction using SQL.
 ---
 
 ## Objective

@@ -76,7 +76,7 @@ FROM (
 ) AS customer_payments; ``
 
 ## Outcome
-- advanced SQL skills including:
+Advanced SQL skills including:
 - Nested query handling
 - Filtering data using conditional subqueries
 - Creating derived logic for reports
